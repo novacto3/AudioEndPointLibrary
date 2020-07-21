@@ -24,6 +24,8 @@ THE SOFTWARE.
 #pragma once
 #include "DefSoundDeviceState.h"
 #include <array>
+#include <string>
+
 
 namespace DefSound {
 	struct CEndpoint
